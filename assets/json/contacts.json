@@ -1,0 +1,54 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": [
+        {
+            "id_contact": 3,
+            "id_users": 1,
+            "first_name": "Bambang",
+            "last_name": "Aulia",
+            "images": "1588394069_187px-Alesso_profile.png",
+            "location": "Bogor",
+            "division": "Entertainment",
+            "date_of_birth": "2012-02-08",
+            "email": "bambang@mail.com",
+            "phone": "08999888777",
+            "address": "Jl. Raya Bogor No. 23",
+            "st_contact": 1,
+            "created_at": "2020-05-02 04:34:29",
+            "updated_at": "2020-05-02 04:34:29"
+        },
+        {
+            "id_contact": 2,
+            "id_users": 1,
+            "first_name": "Rahmat",
+            "last_name": "Ruhimat",
+            "images": "1588402170_image_1.jpg",
+            "location": "Suka Bumi",
+            "division": "Officer",
+            "date_of_birth": "1981-10-13",
+            "email": "rahmat@mail.com",
+            "phone": "0812312345",
+            "address": "Jl. Raya Pasar Minggu No. 77 Jakarta",
+            "st_contact": 1,
+            "created_at": "2020-04-23 04:15:30",
+            "updated_at": "2020-05-02 06:49:30"
+        },
+        {
+            "id_contact": 1,
+            "id_users": 1,
+            "first_name": "Maulana",
+            "last_name": "Ibad",
+            "images": "1588400187_justin.jpg",
+            "location": "Jakarta Pusat",
+            "division": "Marketing",
+            "date_of_birth": "1989-05-25",
+            "email": "maualanibad@mail.com",
+            "phone": "0812345678",
+            "address": "Jl. Joglo Raya No. 23",
+            "st_contact": 1,
+            "created_at": "2020-04-23 04:06:46",
+            "updated_at": "2020-05-02 06:16:27"
+        }
+    ]
+}

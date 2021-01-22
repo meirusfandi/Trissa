@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "203995739974",
+    "firebase_url": "https://trissa-99a21.firebaseio.com",
+    "project_id": "trissa-99a21",
+    "storage_bucket": "trissa-99a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203995739974:android:bfd6d467fab5af65a11747",
+        "android_client_info": {
+          "package_name": "id.fanslab.trissaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203995739974-qvm6nj4ipc6pkfkr6kc40e50b90k6n83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8uxyD1lsQ3hGqYTaajO0d_7DmSKPyjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203995739974-qvm6nj4ipc6pkfkr6kc40e50b90k6n83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203995739974-60gga8ehp3ru81bjpu56lski0ppgprj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.my.fanslab.App-Trissa",
+                "app_store_id": "1532252939"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203995739974:android:421a7b51cb1e68e7a11747",
+        "android_client_info": {
+          "package_name": "id.my.fanslab.app_trissa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203995739974-qvm6nj4ipc6pkfkr6kc40e50b90k6n83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8uxyD1lsQ3hGqYTaajO0d_7DmSKPyjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203995739974-qvm6nj4ipc6pkfkr6kc40e50b90k6n83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203995739974-60gga8ehp3ru81bjpu56lski0ppgprj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.my.fanslab.App-Trissa",
+                "app_store_id": "1532252939"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203995739974:android:b55157bc27a344baa11747",
+        "android_client_info": {
+          "package_name": "id.my.fanslab.trissa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203995739974-qvm6nj4ipc6pkfkr6kc40e50b90k6n83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa8uxyD1lsQ3hGqYTaajO0d_7DmSKPyjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203995739974-qvm6nj4ipc6pkfkr6kc40e50b90k6n83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203995739974-60gga8ehp3ru81bjpu56lski0ppgprj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.my.fanslab.App-Trissa",
+                "app_store_id": "1532252939"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
