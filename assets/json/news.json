@@ -1,0 +1,32 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": [
+        {
+            "id_news": 1,
+            "id_users": 1,
+            "title": "Contoh News Update",
+            "slug": "contoh-news-update",
+            "images": "1587573618_who-we-are.png",
+            "short_content": "<p>ini hanyalah contoh saja Update</p>",
+            "content": "<p>Update ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja ini hanyalah contoh saja Update</p>",
+            "hits": 0,
+            "st_news": 0,
+            "created_at": "2020-04-22 22:44:43",
+            "updated_at": "2020-04-22 16:44:13"
+        },
+        {
+            "id_news": 3,
+            "id_users": 1,
+            "title": "contoh ke 2",
+            "slug": "contoh-ke-2",
+            "images": "1587572513_187px-Alesso_profile.png",
+            "short_content": "<p>contoh short ke 2</p>",
+            "content": "<p>contoh content ke 2</p>",
+            "hits": 0,
+            "st_news": 1,
+            "created_at": "2020-04-22 16:21:53",
+            "updated_at": "2020-04-22 16:21:53"
+        }
+    ]
+}
