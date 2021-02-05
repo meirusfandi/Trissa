@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:app_trissa/src/models/contacts_model.dart';
+import 'package:app_trissa/data/models/contacts_model.dart';
 
 DetailContactsResponse detailContactsResponseFromJson(String str) => DetailContactsResponse.fromJson(json.decode(str));
 

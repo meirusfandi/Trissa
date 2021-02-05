@@ -1,11 +1,10 @@
 import 'dart:async';
-import 'dart:io' show Platform;
 // import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:url_launcher/url_launcher.dart';
-import '../../models/login_models.dart';
-import '../../services/login_service.dart';
+import '../../../data/models/login_models.dart';
+import '../../../data/services/login_service.dart';
 
 class LoginScreen extends StatefulWidget {
   LoginScreen({Key key}) : super(key: key);

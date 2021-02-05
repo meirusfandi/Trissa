@@ -4,8 +4,8 @@ import 'dart:convert';
 import 'package:connectivity/connectivity.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import '../../models/contacts_model.dart';
-import '../../services/contacts_service.dart';
+import '../../../data/models/contacts_model.dart';
+import '../../../data/services/contacts_service.dart';
 
 class ContactScreen extends StatefulWidget {
   ContactScreen({Key key}) : super(key: key);

@@ -8,8 +8,8 @@ import 'package:flutter/material.dart';
 import 'package:html/parser.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import '../../models/news_model.dart';
-import '../../services/news_service.dart';
+import '../../../data/models/news_model.dart';
+import '../../../data/services/news_service.dart';
 
 class NewsScreen extends StatefulWidget {
   NewsScreen({Key key}) : super(key: key);

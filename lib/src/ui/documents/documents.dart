@@ -9,8 +9,8 @@ import 'package:http/http.dart' as http;
 import 'package:open_file/open_file.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import '../../models/documents_model.dart';
-import '../../services/documents_service.dart';
+import '../../../data/models/documents_model.dart';
+import '../../../data/services/documents_service.dart';
 
 class DocumentScreen extends StatefulWidget {
   DocumentScreen({Key key}) : super(key: key);

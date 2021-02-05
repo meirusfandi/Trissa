@@ -31,6 +31,7 @@ dependencies:
   intl: any
   html: any
   toast: any
+  rxdart: any
   open_file: any
   file_cache: any
   pdf_flutter: any
