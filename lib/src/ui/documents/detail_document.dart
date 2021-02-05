@@ -5,8 +5,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:intl/intl.dart';
-import '../../models/documents_model.dart';
-import '../../services/documents_service.dart';
+import '../../../data/models/documents_model.dart';
+import '../../../data/services/documents_service.dart';
 
 class DetailDocumentScreen extends StatefulWidget {
   DetailDocumentScreen({Key key}) : super(key: key);

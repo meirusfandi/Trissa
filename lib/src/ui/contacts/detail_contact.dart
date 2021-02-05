@@ -5,10 +5,10 @@ import 'package:connectivity/connectivity.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_phone_direct_caller/flutter_phone_direct_caller.dart';
 import 'package:toast/toast.dart';
-import '../../models/contacts_model.dart';
+import '../../../data/models/contacts_model.dart';
 import 'package:url_launcher/url_launcher.dart';
-import '../../models/detail_contact.dart';
-import '../../services/contacts_service.dart';
+import '../../../data/models/detail_contact.dart';
+import '../../../data/services/contacts_service.dart';
 
 class DetailContactScreen extends StatefulWidget {
   DetailContactScreen({Key key}) : super(key: key);

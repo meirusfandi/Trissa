@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:table_calendar/table_calendar.dart';
-import '../../services/calendar_service.dart';
-import '../../models/calendar_model.dart';
+import '../../../data/services/calendar_service.dart';
+import '../../../data/models/calendar_model.dart';
 
 class CalendarScreen extends StatefulWidget {
   CalendarScreen({Key key}) : super(key: key);

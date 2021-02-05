@@ -9,10 +9,10 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:url_launcher/url_launcher.dart';
-import '../../../models/calendar_model.dart';
-import '../../../models/news_model.dart';
-import '../../../services/calendar_service.dart';
-import '../../../services/news_service.dart';
+import '../../../../data/models/calendar_model.dart';
+import '../../../../data/models/news_model.dart';
+import '../../../../data/services/calendar_service.dart';
+import '../../../../data/services/news_service.dart';
 import '../../../widgets/menu_widgets.dart';
 
 class DashboardScreen extends StatefulWidget {

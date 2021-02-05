@@ -2,8 +2,8 @@ import 'dart:convert';
 
 import 'package:connectivity/connectivity.dart';
 import 'package:flutter/material.dart';
-import '../../models/news_model.dart';
-import '../../services/news_service.dart';
+import '../../../data/models/news_model.dart';
+import '../../../data/services/news_service.dart';
 import '../../widgets/detail_news_widget.dart';
 
 class DetailNewsScreen extends StatefulWidget {
